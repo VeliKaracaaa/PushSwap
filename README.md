@@ -1,5 +1,3 @@
-Project PushSwap
-
 <p class="has-line-data" data-line-start="0" data-line-end="1">Porject PushSwap</p>
 <p class="has-line-data" data-line-start="2" data-line-end="6">The only system calls allowed are the following ones:<br>
 • write<br>
